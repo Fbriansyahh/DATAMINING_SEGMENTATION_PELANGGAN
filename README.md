@@ -72,7 +72,7 @@ Sumber dataset: [UCI Machine Learning Repository / Kaggle](https://archive.ics.u
 | 📈 | 📊 |
 |----|----|
 | ![Elbow](./assets/elbow.png) | ![PieChart](./assets/pie.png) |
-| ![3D Scatter](./assets/scatter3d.png) | ![RFM Heatmap](./assets/heatmap.png) |
+| ![3D Scatter](./assets/scatter3d.png) | ![RFM Heatmap](./Scaterplot2D.png) |
 
 ---
 
