@@ -99,7 +99,7 @@ Dengan memanfaatkan segmentasi ini, perusahaan dapat:
 ## 👤 Author
 
 > **Febriansyah**  
-> [GitHub](https://github.com/Fbriansyahh) | [LinkedIn](www.linkedin.com/in/febriansyah-ti) | [Email](febriansyah1467@gmail.com)
+> [GitHub](https://github.com/Fbriansyahh) | [LinkedIn](https://www.linkedin.com/in/febriansyah-ti/) | [Email](febriansyah1467@gmail.com)
 
 ---
 
